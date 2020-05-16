@@ -2,7 +2,7 @@
 # Fundacion Universitaria Los Libertadores
 # Materia: Codificacion
 ## - Integrantes:
-> ANDREA STEFANNIA ARIZAALVAREZ             
+> ANDREA STEFANNIA ARIZA ALVAREZ             
 > DAVID ENRIQUE MENA GAMBOA             
 > JASON FABIAN JIMENEZ HERNANDEZ             
 ## - Profesor:
